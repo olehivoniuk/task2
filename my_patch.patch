@@ -1,0 +1,24 @@
+From 696e7c0425f8a18dc5d28376d9f4366e918162ae Mon Sep 17 00:00:00 2001
+From: Oleh Ivoniuk <olehivoniuk767@gmail.com>
+Date: Mon, 19 Feb 2024 13:16:39 +0200
+Subject: [PATCH] updated firstFile.txt with 2 lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..1488245 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++updated 1
++updated 2
+ 3
+ 4
+ 5
+-- 
+2.15.0
+
